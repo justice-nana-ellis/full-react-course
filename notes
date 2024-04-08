@@ -1,0 +1,15 @@
+WEBPACK: Browsers only understand es5 or lower versions
+-- So "BABEL" transpile es6 syntax(your code) to es5(or lower versions) so the browser can interpret
+"WEBPACK" IS A BUNDLER - minimises your code for production also removes spaces and reduce the size 
+
+WHEN COMPILING HOW WILL THE BROWSER UNDERSTAND : react, css , es*5/6, entry point etc..
+
+THAT IS ALSO HANDLED BY WEBPACK
+uses of WEBPACK:
+- code minifications
+- memory optimizations
+- reading of files from node modules
+- compiling css
+
+...
+
